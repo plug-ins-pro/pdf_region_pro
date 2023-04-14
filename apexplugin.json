@@ -26,8 +26,8 @@
       "plugin" : {
         "internalName" : "UNITEDCODES_PDF_REGION",
         "type" : "item",
-        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/pdf_region_pro/home",
-        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/pdf_region_pro/files/static/v70/PRP.png"
+        "demo" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/pdf_region_pro",
+        "previewImage" : "https://www.plug-ins-pro.com/ords/pluginspro_web/r/pdf_region_pro/files/static/v114/demo.gif"
       }
     }
   }
